@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Khangt213
 - 👀 I’m interested in Ai
 - 🌱 I’m currently learning Pyhton
-- 📫 How to reach me ...
+
 
 <!---
 Khangt213/Khangt213 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
