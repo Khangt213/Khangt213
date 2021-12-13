@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Khangt213
 - 👀 I’m interested in Ai
 - 🌱 I’m currently learning Pyhton
-- 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
 <!---
