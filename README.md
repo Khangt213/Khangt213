@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Khangt213
 - 👀 I’m interested in Ai
-- 🌱 I’m currently learning Pyhton
+- 🌱 I’m currently learning Pyhton (Pandas and machine learning)
 
 
 <!---
